@@ -1,0 +1,24 @@
+{
+  "name": "Comentarionista",
+  "short_name": "Comments",
+  "description": "Comentários bíblicos.",
+  "start_url": "/?utm_source=pwa",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#ededed",
+  "theme_color": "#ededed",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-DpBwLCWIgc5bzl_REZoYDjZH4C5xzagvwuTdaA8_s6tL_l3bTBEGn51AnjU0setPQWdOr3Nma11g19sJet2gSxbJSj4Ex0XxUsi0uqw_k3JYolmd8jp73kr6HQPhOtEsNHjoAxFCqDL1uq8CDw0q3PKE7-2RrZZ9xMy-EukMCSrZZBIOJpdL4pRwM9M/s1600/icons8-ideia-192A.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsNx2I0gewn05GZHCiJzWriNA38Vqbho65S-uAIzWREuk6dIXYsGNrhwo_efQuJuUTzX-9f7VvzS8JD7ip5M8pb77GxHiRfxxPU_cg8RZmBFwykIN0V2QycXr7YwIAZhSdN_VLbX_tGdoMdHozjZNNhUrfE-Rfxs-c6WsTyFZ-8aW7rHU8QWOg6GKPMGg/s320/icons8-ideia-512A.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
