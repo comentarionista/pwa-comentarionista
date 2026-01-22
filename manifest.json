@@ -3,21 +3,34 @@
   "short_name": "Comments",
   "description": "Comentários bíblicos.",
   "start_url": "/?utm_source=pwa",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#31cdff",
   "theme_color": "#ededed",
   "icons": [
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimDc_2G74z0BQ-50pPSCrvxNvgl6btvS8GumyMQjBf2konbL1bQLNJB7HcCa9br12LvlsBgnp3s7FWvjRJPuLtsiOzB2PPwkSgG3rn4IO18xVdsw83j_cOWbkl40nWaLWIu2NBejlhOCwq7e2230pESP9T3u6-pn7sAw0YJGFB9-i_zpz17dBYImtLNqY/s1600/icons8-ideia-192FundA.png?v=4",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghjPEQoyFfPtt4n_zrdGWHMfiLF8qTx_vWCLb_hZLU_W_PZjUoKrd_DKXrMtF2SHwgGA8pW2BQVCIIk6oE4GrALZa5GSTlewVWszw-5FvUG2QJ2JHG5Xr3aixiT75Mgu6B5o5EQV0qR7wHxe2DKzyEeBLebNx_4wzqG6tov7ImyIGZK_WOOasIKjzCKTw/s1600/icons8-ideia-192A5.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "maskable"
     },
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh8fkSmotk5rvtDjDoGcjtHzYMvEuEshi8QgXvTtvrZHxjGodPxC7kB_ITGEcUGbzuY8BfTPYQrrkhq2BYkeIkc7qabC9QUfhEWYefPGftyajsVU_1Dp_sy_yLochea5C9puc7abkq2tH3_7OuB8t20zgDZgymlUxUpwcAl9jOgH11zv2qQKhRKh1Bm34/s320/icons8-ideia-512FundA.png?v=4",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDF1REP9yXAbc3sXRM2WPBZYJEN4ES4t1jCeiuoqJul8nqclyN5KoxrDHErqNLC_Wcdu1m5B1RKZlhBMRppw3MQiLESFjTA64u1aogX5FYHsKcrfy3tacHtA3SyaimzUWhRQzV4wSlzmJ37ivokVhKAZDrdlk5u82R1JjSFUq1jS87hVu8ZaK8ZIpErcY/s1600/icons8-ideia-192T5.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEhAyIdygCObrtXl99ck9c1E-tmx_wcWJqTKL1ydJhYF4tugyJ4eqz57KkmK2Kh9P33gPm21nVzntWjBCL2nwjhHEI98KkBo89vCfqAeFzmkpu12Aeph5uper5AVE8jKu-E5jhY5h4zjKKt7G0o7bGyzGNxkhvCgI6GMtL0FJp9W5hWZACH9W4QwSeKZo/s320/icons8-ideia-512A5G.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9mBu5Dxx6Ut9FqKlhl2UlrWYwabsXvCUb2j0SPi-tphERT8WMpm-x-JNyr_1vPc8dt__-HHNCx_jO1gvtT0Xus-1t3Bk_GjPLkH9uRFl5dnoyRhn2gXNLqELAG_p7g1caK2tivvPKaGAfzbX8aTkIRLjlbPrZb1goShkQNBQYZXEuiSNHXS2ZXs5qULw/s320/icons8-ideia-512T5G.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
     }
   ]
 }
