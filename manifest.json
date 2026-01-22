@@ -4,18 +4,17 @@
   "description": "Comentários bíblicos.",
   "start_url": "/?utm_source=pwa",
   "display": "standalone",
-  "orientation": "any",
   "background_color": "#31cdff",
   "theme_color": "#ededed",
   "icons": [
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiimki4FWECUke54ecTRFlFBBZ5x7dcA4URWJiKKp2yuY_MO7RAb0ehIbxp-5inzmi2Ornd6L1_BwJcj10XbGmvJOjVYI6sn5wdWLyLHlVGJCx6RvFymUWZZEs8aWhqU_zbDGGPGPBKBXZJ07iYXm8EXeFkIdc3xVAdAVqykzOMKssZx4yZrFNrEoB60I4/s1600/icons8-ideia-192FundA.png?v=3",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimDc_2G74z0BQ-50pPSCrvxNvgl6btvS8GumyMQjBf2konbL1bQLNJB7HcCa9br12LvlsBgnp3s7FWvjRJPuLtsiOzB2PPwkSgG3rn4IO18xVdsw83j_cOWbkl40nWaLWIu2NBejlhOCwq7e2230pESP9T3u6-pn7sAw0YJGFB9-i_zpz17dBYImtLNqY/s1600/icons8-ideia-192FundA.png?v=4",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirkUzfouJfWgG6ueaQD7C7koGKgXyw_dHB_uke1dmE_hcRhcdWvYvMlN6c65XtmoSSKQ7uaw-4lOgI0Vd_FKJpXddh9xk3WXIxH5FHOxpV5jzQezprSIYYbZVL0Ntwoe9hXkY8OLIMoT046DDA7_76TB5K65FZGGSyy9nEJ9T7N755q91R9cPafXlGogc/s320/icons8-ideia-512FundA.png?v=3",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh8fkSmotk5rvtDjDoGcjtHzYMvEuEshi8QgXvTtvrZHxjGodPxC7kB_ITGEcUGbzuY8BfTPYQrrkhq2BYkeIkc7qabC9QUfhEWYefPGftyajsVU_1Dp_sy_yLochea5C9puc7abkq2tH3_7OuB8t20zgDZgymlUxUpwcAl9jOgH11zv2qQKhRKh1Bm34/s320/icons8-ideia-512FundA.png?v=4",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
